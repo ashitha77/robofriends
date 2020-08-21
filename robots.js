@@ -1,0 +1,43 @@
+export const robots=[
+{
+	id:0,
+	name:"Shailesh",
+	mail:"shailesh@gmail.com"
+},
+{
+	id:1,
+	name:"Ashitha",
+	mail:"ashitha@gmail.com"
+},
+{
+	id:2,
+	name:"Anagha",
+	mail:"anagha@gmail.com"
+},
+{
+	id:3,
+	name:"Sampreet",
+	mail:"sampreet@gmail.com"
+},
+{
+	id:4,
+	name:"Sudheesh",
+	mail:"sudheesh@gmail.com"
+},
+{
+	id:5,
+	name:"Sreesudha",
+	mail:"sreesudha@gmail.com"
+},
+{
+	id:6,
+	name:"Vijayaraj",
+	mail:"viajayaraj@gmail.com"
+},
+{
+	id:7,
+	name:"Chukli",
+	mail:"chukli@gmail.com"
+}
+
+];
